@@ -10,3 +10,6 @@
 [submodule "Maui-Simulation"]
 	path = Maui-Simulation
 	url = https://github.com/It4innovations/Maui-Simulation
+[submodule "mloc"]
+	path = mloc
+	url = https://github.com/It4innovations/mloc
