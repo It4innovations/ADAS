@@ -7,3 +7,6 @@
 [submodule "snailwatch"]
 	path = snailwatch
 	url = https://github.com/It4innovations/snailwatch
+[submodule "Maui-Simulation"]
+	path = Maui-Simulation
+	url = https://github.com/It4innovations/Maui-Simulation
