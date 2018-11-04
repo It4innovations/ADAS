@@ -22,3 +22,6 @@
 [submodule "TimeSeriesComparer"]
 	path = TimeSeriesComparer
 	url = https://code.it4i.cz/ADAS/TimeSeriesComparer.git
+[submodule "RQA_HPC"]
+	path = RQA_HPC
+	url = https://code.it4i.cz/ADAS/RQA_HPC.git
