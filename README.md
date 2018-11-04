@@ -14,7 +14,7 @@ Licensed under GPL-3 license.
 
 Link: [https://code.it4i.cz/ADAS/Chaos01/](https://code.it4i.cz/ADAS/Chaos01)
 
-### [\[\HyperLoom\] HyperLoom](https://github.com/It4innovations/HyperLoom)
+### [\[HyperLoom\] HyperLoom](https://github.com/It4innovations/HyperLoom)
 HyperLoom is a platform for defining and executing workflow pipelines in large-scale distributed environments.
 
 HyperLoom implements its own schedulling algorithm optimized for execution of millions of interconnected tasks on hundreds of computational nodes. HyperLoom also includes a thin Python client module that allows to easily define and execute the pipelines on HyperLoom infrastructure.
@@ -35,7 +35,7 @@ Licensed under GPL-3 license.
 This project is focused at computing Recurrence Quantitative Analysis (RQA) in the HPC environment.
 RQA is used to study structure and predictability of the time series data.
 
-Licensed under BSD 3 - Clause license -
+Licensed under BSD 3 - Clause license.
 
 Link: [https://code.it4i.cz/ADAS/RQA_HPC](https://code.it4i.cz/ADAS/RQA_HPC)
 
