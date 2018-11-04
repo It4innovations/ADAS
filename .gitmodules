@@ -25,3 +25,6 @@
 [submodule "RQA_HPC"]
 	path = RQA_HPC
 	url = https://code.it4i.cz/ADAS/RQA_HPC.git
+[submodule "Chaos01"]
+	path = Chaos01
+	url = https://code.it4i.cz/ADAS/Chaos01.git
