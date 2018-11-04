@@ -1,3 +1,6 @@
 [submodule "Betweenness"]
 	path = Betweenness
 	url = git@github.com:It4innovations/Betweenness.git
+[submodule "HyperLoom"]
+	path = HyperLoom
+	url = https://github.com/It4innovations/HyperLoom
