@@ -1,0 +1,3 @@
+[submodule "Betweenness"]
+	path = Betweenness
+	url = git@github.com:It4innovations/Betweenness.git
