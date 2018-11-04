@@ -4,3 +4,6 @@
 [submodule "HyperLoom"]
 	path = HyperLoom
 	url = https://github.com/It4innovations/HyperLoom
+[submodule "snailwatch"]
+	path = snailwatch
+	url = https://github.com/It4innovations/snailwatch
