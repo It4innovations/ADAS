@@ -16,3 +16,9 @@
 [submodule "urban-tep"]
 	path = urban-tep
 	url = https://github.com/It4innovations/urban-tep
+[submodule "RobotSoccer"]
+	path = RobotSoccer
+	url = https://github.com/It4innovations/RobotSoccer
+[submodule "TimeSeriesComparer"]
+	path = TimeSeriesComparer
+	url = https://code.it4i.cz/ADAS/TimeSeriesComparer.git
