@@ -13,3 +13,6 @@
 [submodule "mloc"]
 	path = mloc
 	url = https://github.com/It4innovations/mloc
+[submodule "urban-tep"]
+	path = urban-tep
+	url = https://github.com/It4innovations/urban-tep
