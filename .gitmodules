@@ -28,3 +28,6 @@
 [submodule "Chaos01"]
 	path = Chaos01
 	url = https://code.it4i.cz/ADAS/Chaos01.git
+[submodule "Middleware"]
+	path = Middleware
+	url = https://code.it4i.cz/ADAS/HEAppE/Middleware.git
