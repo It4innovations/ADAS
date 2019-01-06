@@ -37,3 +37,6 @@
 [submodule "all"]
 	path = all
 	url = https://github.com/It4innovations/all.git
+[submodule "PTDR"]
+	path = PTDR
+	url = https://github.com/It4innovations/PTDR.git
