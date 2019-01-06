@@ -14,12 +14,23 @@ Licensed under GPL-3 license.
 
 Link: [https://code.it4i.cz/ADAS/Chaos01/](https://code.it4i.cz/ADAS/Chaos01)
 
+### [\[Handicap\] Handicap scheduling](https://github.com/It4innovations/Handicap)
+
+Scheduling of incomplete tournaments brinks the possibility of adjusting difficulty of the collection of matches played by each team.
+Strong teams may meet stronger opponents and weaker teams weaker opponents. Thus each match counts and we have an attractive tournament.
+
+The SW looks for all structures of tournaments with a given number of teams and given number of games. The output is a labeled graph that models the tournament. This are starting cases for general construction of infinite classes of handicap graphs.
+
+Licensed under BSD 2 - Clause license.
+
+Link: [https://github.com/It4innovations/Handicap](https://github.com/It4innovations/Handicap)
+
 ### [\[HyperLoom\] HyperLoom](https://github.com/It4innovations/HyperLoom)
 HyperLoom is a platform for defining and executing workflow pipelines in large-scale distributed environments.
 
 HyperLoom implements its own schedulling algorithm optimized for execution of millions of interconnected tasks on hundreds of computational nodes. HyperLoom also includes a thin Python client module that allows to easily define and execute the pipelines on HyperLoom infrastructure.
 
-Licensed under BSD license.
+Licensed under BSD 3 - Clause license.
 
 ### [\[Maui-Simulation\] Maui Simulation Setup for IT4Innovations](https://github.com/It4innovations/Maui-Simulation)
 This repository contains the setup of the Maui Scheduler to simulate the job scheduling of IT4Innovations' large-scale PBS based Salomon cluster. It has been used in our paper **Job Simulation for large-scale PBS based Clusters with the Maui Scheduler** (see section [Paper and Citation](#paper-and-citation) below) and is made available to enable other PBS based computing centers to run simulations.
@@ -29,6 +40,12 @@ This repository contains the setup of the Maui Scheduler to simulate the job sch
 More info at [HEAppE wiki.](https://code.it4i.cz/ADAS/HEAppE/Middleware/wikis/home)
 
 Licensed under GPL-3 license.
+
+### [\[PTDR\] Probabilistic Time Dependent Routing](https://github.com/It4innovations/PTDR)
+
+Probabilistic Time-Dependent Routing implementation with integrated mArgot 2 autotuner.
+
+Licensed under BSD 3 - Clause license.
 
 ### [\[RQA_HPC\] RQA HPC](https://code.it4i.cz/ADAS/RQA_HPC)
 
@@ -51,6 +68,12 @@ This application is written in C++ language and supports Windows and Linux opera
 Licensed BSD license.
 
 Link: [https://code.it4i.cz/ADAS/TimeSeriesComparer](https://code.it4i.cz/ADAS/TimeSeriesComparer)
+
+### [[\all\] Agora Learning Library](https://github.com/It4innovations/all)
+
+This repository consists of two plugins for the autotuner mARGOt. These plugins are written in R and use CSV or Apache Cassandra for data storage. Plugins are made to work with mARGOt, it is possible to run the R scripts on their own, if the data are prepared according to their documentation.
+
+Licensed under GPL-3 License.
 
 ### [\[mloc\] MLoC - Machine Learning on Cluster](https://github.com/It4innovations/mloc)
 Machine learning as a Service solution.
