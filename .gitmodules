@@ -31,3 +31,9 @@
 [submodule "Middleware"]
 	path = Middleware
 	url = https://code.it4i.cz/ADAS/HEAppE/Middleware.git
+[submodule "Handicap"]
+	path = Handicap
+	url = https://github.com/It4innovations/Handicap.git
+[submodule "all"]
+	path = all
+	url = https://github.com/It4innovations/all.git
